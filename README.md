@@ -1,2 +1,2 @@
 # VirtualMurasame
-The alternative of X'moe.
+幼刀可爱.
